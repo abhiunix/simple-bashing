@@ -1,0 +1,11 @@
+app
+calendar
+cdn
+design
+facebook
+external
+fr
+mail
+status
+support
+updates
