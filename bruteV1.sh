@@ -7,3 +7,4 @@ while read sub; do
 	fi
 done < prefix.txt
 
+#usage: `bash bruteV1.sh abhiunix.in`
